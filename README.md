@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyasagar288&label=Profile%20views&color=0e75b6&style=flat" alt="vidyasagar288" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidyasagar288" alt="vidyasagar288" /></a> </p>
+
 - 🌱 I’m currently learning **Python, Power BI, Ms SQL**
 
 - 📫 How to reach me **mvidyasagar.288@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
 <a href="https://linkedin.com/in/vidya sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidya sagar" height="30" width="40" /></a>
 <a href="https://fb.com/vidya sagar/p.vidya5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vidya sagar/p.vidya5" height="30" width="40" /></a>
 <a href="https://instagram.com/mvidya_sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mvidya_sagar" height="30" width="40" /></a>
